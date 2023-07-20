@@ -1,0 +1,6 @@
+{
+    "cookiecutter": {
+        "package_name": "testpackage",
+        "module_name": "testpackage"
+    }
+}

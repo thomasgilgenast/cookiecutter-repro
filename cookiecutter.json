@@ -1,0 +1,4 @@
+{
+    "package_name": "my-package",
+    "module_name": "{{ cookiecutter.package_name.replace('-', '_') }}"
+}
